@@ -19,6 +19,10 @@ const id = {
     heroSub:
       "DateBite adalah kumpulan kalkulator tanggal dan waktu: usia tepat, hari kerja, selisih antar tanggal, dan siklus tidur. Semua di browser Anda — cepat, gratis, tanpa akun, tanpa unggahan.",
     browseAll: "Lihat semua alat",
+    pinned: "Disematkan",
+    pin: "Sematkan di atas",
+    unpin: "Lepas sematan",
+    popular: "Populer saat ini",
     categoriesTitle: "Kategori",
     featuredTitle: "Alat populer",
     trustLocal: "Tanggal Anda tetap di perangkat Anda",
@@ -77,6 +81,8 @@ const id = {
     howTo: "Cara pakai",
     faq: "Pertanyaan yang sering diajukan",
     related: "Alat terkait",
+    nextStep: "Langkah berikutnya",
+    copyLink: "Salin tautan",
     privacyNote:
       "Alat ini berjalan sepenuhnya di browser Anda. Data Anda tidak pernah meninggalkan perangkat — tidak diunggah ke server mana pun.",
     inCategory: "Lainnya di {category}",

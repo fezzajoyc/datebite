@@ -19,6 +19,10 @@ const ja: Dictionary = {
     heroSub:
       "DateBite は日付と時刻の計算ツール集:正確な年齢、営業日数、日付の差、睡眠サイクル。すべてブラウザ内で動く——速く、無料、登録不要、送信ゼロ。",
     browseAll: "すべてのツールを見る",
+    pinned: "ピン留め",
+    pin: "トップに固定",
+    unpin: "固定を解除",
+    popular: "人気のツール",
     categoriesTitle: "カテゴリー",
     featuredTitle: "人気のツール",
     trustLocal: "入力はあなたのデバイスから出ない",
@@ -74,6 +78,8 @@ const ja: Dictionary = {
     howTo: "使い方",
     faq: "よくある質問",
     related: "関連ツール",
+    nextStep: "次のステップ",
+    copyLink: "リンクをコピー",
     privacyNote:
       "このツールは完全にブラウザ内で動作します。データは端末から出ず、サーバーへアップロードされることはありません。",
     inCategory: "{category}のその他のツール",

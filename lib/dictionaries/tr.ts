@@ -18,6 +18,10 @@ const tr = {
     heroSub:
       "DateBite bir tarih ve saat hesaplayıcı setidir: kesin yaş, iş günleri, tarih farkları ve uyku döngüleri. Hepsi tarayıcınızda — hızlı, ücretsiz, kayıtsız, gönderimsiz.",
     browseAll: "Tüm araçlara göz at",
+    pinned: "Sabitlenen",
+    pin: "Üste sabitle",
+    unpin: "Sabitlemeyi kaldır",
+    popular: "Şu anda popüler",
     categoriesTitle: "Kategoriler",
     featuredTitle: "Popüler araçlar",
     trustLocal: "Tarihleriniz cihazınızda kalır",
@@ -76,6 +80,8 @@ const tr = {
     howTo: "Nasıl kullanılır",
     faq: "Sık sorulan sorular",
     related: "İlgili araçlar",
+    nextStep: "Sonraki adımlar",
+    copyLink: "Bağlantıyı kopyala",
     privacyNote:
       "Bu araç tamamen tarayıcında çalışır. Verilerin asla cihazından çıkmaz — hiçbir sunucuya yüklenmez.",
     inCategory: "{category} kategorisinde daha fazlası",

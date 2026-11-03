@@ -21,6 +21,10 @@ const fr: Dictionary = {
     heroSub:
       "DateBite est un ensemble de calculatrices de dates et d'heures : âge exact, jours ouvrés, différences entre dates, cycles de sommeil. Tout dans votre navigateur — rapide, gratuit, sans compte, aucun envoi.",
     browseAll: "Voir tous les outils",
+    pinned: "Épinglés",
+    pin: "Épingler",
+    unpin: "Désépingler",
+    popular: "Populaires en ce moment",
     categoriesTitle: "Catégories",
     featuredTitle: "Outils populaires",
     trustLocal: "Vos dates restent sur votre appareil",
@@ -79,6 +83,8 @@ const fr: Dictionary = {
     howTo: "Mode d'emploi",
     faq: "Questions fréquentes",
     related: "Outils associés",
+    nextStep: "Étapes suivantes",
+    copyLink: "Copier le lien",
     privacyNote:
       "Cet outil s'exécute entièrement dans votre navigateur. Vos données ne quittent jamais votre appareil — elles ne sont envoyées à aucun serveur.",
     inCategory: "Plus d'outils dans {category}",
